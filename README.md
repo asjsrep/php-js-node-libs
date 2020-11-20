@@ -9,9 +9,9 @@
 * https://danfo.jsdata.org/ 
 JavaScript library providing high-performance, intuitive, and easy-to-use data structures for manipulating and processing structured data. Pandas for JS
 
-*https://stdlib.io/
+* https://stdlib.io/
 Stdlib for JS
 
-*https://github.com/ecrmnn/collect.js
+* https://github.com/ecrmnn/collect.js
 Laravel Collect for JS
 
